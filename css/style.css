@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.head-navigation{
+    z-index: 1;
+    position: absolute;
+}
+.navigation{
+    width: 100%;
+}
+.log-head{
+    text-align: center;
+}
+.cloud-head{
+    width: 128px;
+
+}
+.navbar-nav{
+    margin-top: -25px; 
+}
+.navbar-nav>li{
+    display: inline;
+    padding: 0 70px;
+}
+.scroll-4{
+    margin-left: 300px;
+}
+.islandcloud{
+    text-align: center;
+}
+.img-islandcloud{
+    margin-top: 150px;
+}
+.slider{
+    z-index: -1;
+}
+.list{
+    position: absolute;
+}
+.images-slider{
+    width: 100%;
+}
+.about{
+    padding-top: 931px;
+}
+.container{
+    width: 100%;
+    height: 840px;
+    background: rgb(124, 147, 202);
+    color: #fff;
+    text-align: center;
+}
+.container>h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: normal;
+}
+.container>h4{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    font-weight: normal;
+}
+.lyrics-left, .lyrics-right{
+    width: 50%;
+    float: left;
+    padding: 0;
+}
+.lyrics-left>h3{
+    padding: 30px 0;
+}
+.lyrics-left>p{
+    line-height: 48px;
+}
+.lyrics-right>h3{
+    padding: 30px 0;
+}
+.lyrics-right>p{
+    line-height: 48px;
+}
+.homework{
+    width: 100%;
+    height: 760px;
+    background: rgb(50, 50, 50);
+    color: #fff;
+    text-align: center;
+}
+.homework>h1{
+    padding-top: 50px; 
+}
+.colors{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    position: relative;
+}
+.red,.yellow,.blue{
+    width: 300px;
+    height: 500px;
+    top: 15%;
+    border-radius: 15px;
+}
+.red:hover{
+    box-shadow: 0 0 15px 5px #fff;
+}
+.yellow:hover{
+    box-shadow: 0 0 15px 5px #fff;
+}
+.blue:hover{
+    box-shadow: 0 0 15px 5px #fff;
+}
+.red{
+    position: absolute;
+    left: 11%;
+    background: #fff
+}
+.yellow{
+    position: absolute;
+    left: 41%;
+    background: #fff
+}
+.blue{
+    position: absolute;
+    left: 72%;
+    background: #FFF
+
+}
+.img-homework{
+    width: 250px;
+    height: 165px;
+    margin-top: 35px;
+    border-radius: 10px; 
+}
+.red>p,.yellow>p,.blue>p{
+    color: black;
+    font-size: 28px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.go-link{
+    margin-left: 68px;
+    width: 164px;
+    display: block;
+    padding: 15px 0;
+    border: 3px solid black;
+    background: white;
+    transition: all 0.5s!important;
+    color: black;
+}
+.go-link:hover{
+    transform: scale(1.2)!important;
+    background: black;
+    color: white;
+}
+.travel{
+    width: 100%;
+    height: 760px;
+    background:#fff;
+    text-align: center;
+}
+.travel>h1{
+    font-weight: normal;
+    margin:100px 0; 
+}
+.photo{
+    width: 400px;
+    height: 300px;
+}
+.review{
+    text-align: center;
+    overflow: hidden;
+}
+.review>h1{
+    margin: 50px 0;
+    font-weight: normal;
+}
+.white{
+    width: 100%;
+    height: 800px;
+    background: #fff;
+    position: relative;
+}
+.black{
+    width: 100%;
+    height: 800px;
+    background: black;
+    position: block;
+    left: 18%;
+}
+.contant{
+    text-align: center;
+}
+.contant>h1{
+    font-weight: normal;
+    margin: 50px 0;
+}
+.icons>li{
+    display: inline-block;
+    margin: 0 100px;
+}
+.icon-qq,.icon-weibo,.icon-weixin,.icon-tiktok,.icon-alipay{
+    display: block;
+    width: 44px;
+    height: 44px;
+    background: black;
+    transition: all 0.5s;
+}
+.icon-qq>img{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.icon-weibo>img{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.icon-weixin>img{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.icon-tiktok>img{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.icon-alipay>img{
+    margin-top: 6px;
+    width: 30px;
+    height: 30px;
+}
+.icon-qq:hover{
+    background: #1296db;
+}
+.icon-weibo:hover{
+    background: #dd4744;
+}
+.icon-weixin:hover{
+    background: #1afa29;
+}
+.icon-tiktok:hover{
+    animation: tiktok 0.5s infinite;
+}
+.icon-alipay:hover{
+    background: #00a0e9;
+}
+@keyframes tiktok{
+    0%{
+        background: #87ceeb;
+    }
+    50%{
+        background:#ff667f;
+    }
+    100%{
+        background: #87ceeb;
+    }
+}
+.foot{
+    height: 400px;
+    margin-top: 50px;
+    border-top: 1px solid black;
+}
+.footer{
+    margin-top: 50px;
+    position: relative;
+}
+.left-foot>ul>li{
+    list-style: none;
+    margin: 10px 0;
+}
+.left-foot{
+    position: absolute;
+    left: 10%;
+}
+.third-foot{
+    position: absolute;
+    left: 40%;
+}
+.third-foot>ul>li{
+    list-style: none;
+    margin: 10px 0;
+}
+.right-foot{
+    position: absolute;
+    left: 70%;
+}
+.right-foot>p{
+    margin: 20px 0;
+}
+.subscribe{
+    width: 250px;
+    height: 20px;
+    padding: 10px;
+    outline: none;
+}
+.left-foot>ul>li>a{
+    color: black;
+}
+.submit{
+    width: 35px;
+    height: 35px;
+    background: url(images/subscribe.png);
+    border: none;
+    outline: none;
+    background-size: contain; 
+    margin-left: -45px;
+    padding-bottom: 12px;
+    cursor: pointer;
+}
+.root{
+    margin-top: 300px;
+    border-top: 1px solid black;
+    text-align: center;
+}
+.root>p{
+    margin-top: 20px;
+}
