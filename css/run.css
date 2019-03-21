@@ -1,0 +1,194 @@
+@keyframes run-musicNo01{
+    0%{font-size: 16px;}
+    2.8%{font-size: 20px;}
+    4.6%{font-size: 20px;}
+    7.4%{font-size: 16px;}
+}
+@keyframes run-musicNo02{
+    4.6%{font-size: 16px;}
+    7.4%{font-size: 20px;}
+    9.2%{font-size: 20px;}
+    12%{font-size: 16px;}
+}
+@keyframes run-musicNo03{
+    9.2%{font-size: 16px;}
+    12%{font-size: 20px;}
+    13.8%{font-size: 20px;}
+    16.6%{font-size: 16px;}
+}
+@keyframes run-musicNo04{
+    13.8%{font-size: 16px;}
+    16.6%{font-size: 20px;}
+    18.4%{font-size: 20px;}
+    21.2%{font-size: 16px;}
+}
+@keyframes run-musicNo05{
+    18.4%{font-size: 16px;}
+    21.2%{font-size: 20px;}
+    23%{font-size: 20px;}
+    25.8%{font-size: 16px;}
+}
+@keyframes run-musicNo06{
+    23%{font-size: 16px;}
+    25.8%{font-size: 20px;}
+    27.6%{font-size: 20px;}
+    30.4%{font-size: 16px;}
+}
+@keyframes run-musicNo07{
+    27.6%{font-size: 16px;}
+    30.4%{font-size: 20px;}
+    32.2%{font-size: 20px;}
+    35%{font-size: 16px;}
+}
+@keyframes run-musicNo08{
+    32.2%{font-size: 16px;}
+    35%{font-size: 20px;}
+    36.8%{font-size: 20px;}
+    39.6%{font-size: 16px;}
+}
+@keyframes run-musicNo09{
+    36.8%{font-size: 16px;}
+    39.6%{font-size: 20px;}
+    41.4%{font-size: 20px;}
+    44.2%{font-size: 16px;}
+}
+@keyframes run-musicNo10{
+    41.4%{font-size: 16px;}
+    44.2%{font-size: 20px;}
+    46%{font-size: 20px;}
+    48.8%{font-size: 16px;}
+}
+@keyframes run-musicNo11{
+    46%{font-size: 16px;}
+    48.8%{font-size: 20px;}
+    50.6%{font-size: 20px;}
+    53.4%{font-size: 16px;}
+}
+@keyframes run-musicNo12{
+    50.6%{font-size: 16px;}
+    53.4%{font-size: 20px;}
+    55.2%{font-size: 20px;}
+    58%{font-size: 16px;}
+}
+@keyframes run-musicNo13{
+    55.2%{font-size: 16px;}
+    58%{font-size: 20px;}
+    59.8%{font-size: 20px;}
+    62.6%{font-size: 16px;}
+}
+@keyframes run-musicNo14{
+    59.8%{font-size: 16px;}
+    62.6%{font-size: 20px;}
+    64.4%{font-size: 20px;}
+    67.2%{font-size: 16px;}
+}
+@keyframes run-musicNo15{
+    64.4%{font-size: 16px;}
+    67.2%{font-size: 20px;}
+    69%{font-size: 20px;}
+    71.8%{font-size: 16px;}
+}
+@keyframes run-musicNo16{
+    69%{font-size: 16px;}
+    71.8%{font-size: 20px;}
+    73.6%{font-size: 20px;}
+    76.4%{font-size: 16px;}
+}
+@keyframes run-musicNo17{
+    73.6%{font-size: 16px;}
+    76.4%{font-size: 20px;}
+    78.2%{font-size: 20px;}
+    81%{font-size: 16px;}
+}
+@keyframes run-musicNo18{
+    78.2%{font-size: 16px;}
+    81%{font-size: 20px;}
+    82.2%{font-size: 20px;}
+    85.6%{font-size: 16px;}
+}
+@keyframes run-musicNo19{
+    82.2%{font-size: 16px;}
+    85.6%{font-size: 20px;}
+    87.4%{font-size: 20px;}
+    90.2%{font-size: 16px;}
+}
+@keyframes run-musicNo20{
+    87.4%{font-size: 16px;}
+    90.2%{font-size: 20px;}
+    92%{font-size: 20px;}
+    94.8%{font-size: 16px;}
+}
+@keyframes run-musicNo21{
+    92%{font-size: 16px;}
+    94.8%{font-size: 20px;}
+    96.6%{font-size: 20px;}
+    99.4%{font-size: 16px;}
+}
+.p-No{
+    cursor: default;
+}
+
+.No01{
+    animation: run-musicNo01 54s infinite;
+}
+.No02{
+    animation: run-musicNo02 54s infinite;
+}
+.No03{
+    animation: run-musicNo03 54s infinite;
+}
+.No04{
+    animation: run-musicNo04 54s infinite;
+}
+.No05{
+    animation: run-musicNo05 54s infinite;
+}
+.No06{
+    animation: run-musicNo06 54s infinite;
+}
+.No07{
+    animation: run-musicNo07 54s infinite;
+}
+.No08{
+    animation: run-musicNo08 54s infinite;
+}
+.No09{
+    animation: run-musicNo09 54s infinite;
+}
+.No10{
+    animation: run-musicNo10 54s infinite;
+}
+.No11{
+    animation: run-musicNo11 54s infinite;
+}
+.No12{
+    animation: run-musicNo12 54s infinite;
+}
+.No13{
+    animation: run-musicNo13 54s infinite;
+}
+.No14{
+    animation: run-musicNo14 54s infinite;
+}
+.No15{
+    animation: run-musicNo15 54s infinite;
+}
+.No16{
+    animation: run-musicNo16 54s infinite;
+}
+.No17{
+    animation: run-musicNo17 54s infinite;
+}
+.No18{
+    animation: run-musicNo18 54s infinite;
+}
+.No19{
+    animation: run-musicNo19 54s infinite;
+}
+.No20{
+    animation: run-musicNo20 54s infinite;
+}
+.No21{
+    animation: run-musicNo21 54s infinite;
+}
+
